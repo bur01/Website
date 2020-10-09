@@ -27,12 +27,14 @@ body {
     justify-content: center;
 }
 .main-heading {
+    font-family: 'Roboto', sans-serif;
     color: white;
     font-size: 3em;
     text-align-center;
     margin: auto;
 }
 .sub-main-heading {
+  font-family: 'Roboto', sans-serif;
   font-weight: light;
   color: white;
   font-size: 1em;
