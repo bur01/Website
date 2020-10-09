@@ -22,6 +22,6 @@ body {
     flex-direction: column;
     justify-content: center;
 }
-.main-heading-box h1 {
+h1 {
     color: white; 
 }
