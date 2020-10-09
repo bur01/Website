@@ -12,4 +12,5 @@ body {
 .main-heading-box {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
