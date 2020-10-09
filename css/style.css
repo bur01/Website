@@ -10,7 +10,8 @@ body {
   background: linear-gradient(0deg, rgba(53,113,145,1) 0%, rgba(45,38,65,1) 100%);
 }
 .main-heading-box {
-  height: 500px;
+    max-height: 200px;
+    height: 100%;
     display: -webkit-box;
     display: -moz-box;
     display: -ms-flexbox;
