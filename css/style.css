@@ -19,12 +19,16 @@ html, body {
   flex-direction: column;
   justify-content: center;
 }
+.main-heading-box img {
+  width: 50px;
+}
 .main-heading {
   font-family: 'Montserrat', sans-serif;
   color: white;
   font-size: 3em;
   text-align: center;
   display: flex;
+  margin-top: 10px;
 }
 .sub-main-heading {
   font-family: 'Montserrat', sans-serif;
