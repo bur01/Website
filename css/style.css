@@ -14,3 +14,11 @@ body {
   justify-content: center;
   align-items: center;
 }
+.main-heading-box h1 {
+  display: flex;
+  align-self: center;
+}
+.main-heading-box .special{
+  display: flex;
+  align-self: center;
+}
