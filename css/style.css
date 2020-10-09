@@ -11,8 +11,7 @@ body {
   background: rgb(53,113,145);
   background: linear-gradient(0deg, rgba(53,113,145,1) 0%, rgba(45,38,65,1) 100%);
 }
-.main-heading-box {
-    max-height: 200px;
+.content-box {
     height: 100%;
     display: -webkit-box;
     display: -moz-box;
@@ -23,6 +22,9 @@ body {
     align-items: center;
     flex-direction: column;
     justify-content: center;
+}
+.main-heading-box {
+    max-height: 200px;
 }
 .main-heading {
     color: white;
