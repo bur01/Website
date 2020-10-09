@@ -4,8 +4,8 @@ html, body {
   margin: 0;
   background-repeat: no-repeat;
   background-size: cover;
-  background: rgb(255,137,253);
-  background: linear-gradient(0deg, rgba(255,137,253,1) 0%, rgba(118,86,210,1) 100%);
+  background: rgb(207,69,204);
+  background: linear-gradient(0deg, rgba(207,69,204,1) 0%, rgba(89,59,180,1) 100%);
 }
 .main-heading-box {
   font-family: 'Montserrat', sans-serif;
