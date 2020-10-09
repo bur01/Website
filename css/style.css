@@ -4,6 +4,7 @@ html {
   padding: 0;
 }
 body {
+  font-family: 'Roboto', sans-serif;
   height: 100%;
   margin: 0;
   background-repeat: no-repeat;
@@ -12,8 +13,9 @@ body {
   background: linear-gradient(0deg, rgba(53,113,145,1) 0%, rgba(45,38,65,1) 100%);
 }
 .main-heading-box {
+    font-family: 'Roboto', sans-serif;
     height: 100%;
-     max-height: 200px;
+    max-height: 200px;
     display: -webkit-box;
     display: -moz-box;
     display: -ms-flexbox;
@@ -31,6 +33,7 @@ body {
     margin: auto;
 }
 .sub-main-heading {
+  font-weight: light;
   color: white;
   font-size: 1em;
   text-align: center;
