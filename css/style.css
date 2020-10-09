@@ -26,9 +26,11 @@ body {
     color: white;
     font-size: 3em;
     text-align-center;
+    margin: auto;
 }
 .sub-main-heading {
   color: white;
   font-size: 1em;
   text-align: center;
+  margin: auto;
 }
