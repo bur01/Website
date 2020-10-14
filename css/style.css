@@ -4,8 +4,8 @@ html, body {
   margin: 0;
   background-repeat: no-repeat;
   background-size: cover;
-  background: rgb(18,70,73);
-  background: linear-gradient(0deg, rgba(18,70,73,1) 0%, rgba(3,28,46,1) 100%, rgba(11,15,37,1) 100%);
+  background: rgb(0,255,224);
+  background: linear-gradient(167deg, rgba(0,255,224,1) 0%, rgba(0,212,255,0) 100%);
 }
 .main-heading-box {
   font-family: 'Montserrat', sans-serif;
@@ -24,6 +24,8 @@ html, body {
   align-items: center;
   flex-direction: column;
   justify-content: center;
+  padding: 50px;
+  border 2px solid 
 }
 .main-heading-box img {
   width: 50px;
