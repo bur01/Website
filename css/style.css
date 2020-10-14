@@ -4,8 +4,8 @@ html, body {
   margin: 0;
   background-repeat: no-repeat;
   background-size: cover;
-  background: rgb(0,255,224);
-  background: linear-gradient(167deg, rgba(0,255,224,1) 0%, rgba(0,212,255,0) 100%);
+  background: rgb(25,68,103);
+  background: linear-gradient(90deg, rgba(25,68,103,1) 0%, rgba(27,69,91,1) 100%);
 }
 .main-heading-box {
   font-family: 'Montserrat', sans-serif;
@@ -25,7 +25,9 @@ html, body {
   flex-direction: column;
   justify-content: center;
   padding: 50px;
-  border 2px solid 
+  border 2px solid
+  background: rgb(0,255,224);
+  background: linear-gradient(167deg, rgba(0,255,224,1) 0%, rgba(0,212,255,0) 100%);
 }
 .main-heading-box img {
   width: 50px;
