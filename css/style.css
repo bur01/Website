@@ -21,6 +21,7 @@ html, body {
 }
 .main-heading-box img {
   width: 50px;
+  margin: 0 auto;
 }
 .main-heading {
   font-family: 'Montserrat', sans-serif;
